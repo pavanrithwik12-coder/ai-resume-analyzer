@@ -1,0 +1,59 @@
+skill,category,aliases
+python,Programming,python3
+sql,Programming,
+java,Programming,
+c++,Programming,cpp
+javascript,Programming,js
+r,Programming,r programming
+pandas,Data Analysis,
+numpy,Data Analysis,
+excel,Data Analysis,ms excel|microsoft excel|advanced excel
+power bi,Data Analysis,powerbi
+tableau,Data Analysis,
+statistics,Data Analysis,statistical analysis|hypothesis testing
+data visualization,Data Analysis,data visualisation|dashboards
+data cleaning,Data Analysis,data preprocessing|data wrangling
+eda,Data Analysis,exploratory data analysis
+matplotlib,Data Visualization,
+seaborn,Data Visualization,
+plotly,Data Visualization,
+machine learning,Machine Learning,ml
+scikit-learn,Machine Learning,sklearn|scikit learn
+deep learning,Machine Learning,neural networks
+tensorflow,Machine Learning,
+pytorch,Machine Learning,torch
+keras,Machine Learning,
+xgboost,Machine Learning,
+feature engineering,Machine Learning,
+mlflow,MLOps,
+nlp,NLP,natural language processing
+spacy,NLP,
+nltk,NLP,
+transformers,NLP,bert|huggingface transformers
+hugging face,NLP,huggingface
+tf-idf,NLP,tfidf
+llm,Generative AI,llms|large language model|large language models|gpt
+rag,Generative AI,retrieval augmented generation|retrieval-augmented generation
+langchain,Generative AI,
+prompt engineering,Generative AI,
+opencv,Computer Vision,cv2
+cnn,Computer Vision,cnns|convolutional neural network|convolutional neural networks
+yolo,Computer Vision,yolov5|yolov8
+image processing,Computer Vision,
+fastapi,Backend & APIs,
+flask,Backend & APIs,
+django,Backend & APIs,
+rest api,Backend & APIs,rest apis|restful api|apis|api
+streamlit,Backend & APIs,
+mysql,Databases,
+postgresql,Databases,postgres
+mongodb,Databases,
+sqlite,Databases,
+docker,Cloud & Tools,containerization
+git,Cloud & Tools,
+github,Cloud & Tools,
+aws,Cloud & Tools,amazon web services
+azure,Cloud & Tools,
+gcp,Cloud & Tools,google cloud
+linux,Cloud & Tools,
+kubernetes,Cloud & Tools,k8s

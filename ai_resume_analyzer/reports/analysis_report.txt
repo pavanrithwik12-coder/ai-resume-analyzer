@@ -1,0 +1,28 @@
+AI RESUME ANALYSIS REPORT
+==========================
+
+Target role: Machine Learning Engineer
+Resume match score: 78.9%
+
+Skills found:
+  Backend & APIs: fastapi, rest api
+  Cloud & Tools: docker, git, github
+  Data Analysis: numpy, pandas
+  Machine Learning: feature engineering, machine learning, scikit-learn, xgboost
+  Programming: python
+
+Missing skills: mlflow
+Weak skills (mentioned once): python, pandas, git
+
+Recommended roles:
+  1. Machine Learning Engineer - 78.9%
+  2. Data Scientist - 55.9%
+  3. Python Developer - 55.5%
+
+Suggested roadmap:
+  Week 1: MLflow experiment tracking and model registry
+  Week 2: Strengthen with practice projects: python, pandas, git
+  Week 3: Build one small project that uses mlflow, python, pandas, git and add it to your resume
+
+NOTE: Match scores are estimates for learning guidance, not recruiter decisions.
+Missing keywords do not always mean missing ability.

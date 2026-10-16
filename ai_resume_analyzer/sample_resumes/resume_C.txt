@@ -1,0 +1,16 @@
+Sample Candidate C
+Email: candidate.c@example.com | Phone: +91 90000 11111
+Age: 22
+
+EDUCATION
+B.Tech in Artificial Intelligence, 2021 - 2025
+
+SKILLS
+Python, NLP, spaCy, NLTK, Transformers, Hugging Face, PyTorch, Deep Learning, TF-IDF
+
+PROJECTS
+- Sentiment classifier: fine-tuned a BERT transformer with Hugging Face and PyTorch.
+- Text preprocessing pipeline using NLTK and spaCy with TF-IDF features.
+
+EXPERIENCE
+NLP Intern: worked on named entity recognition and text classification using natural language processing.

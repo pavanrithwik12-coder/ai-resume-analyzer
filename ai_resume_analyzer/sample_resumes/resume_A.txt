@@ -1,0 +1,17 @@
+Sample Candidate A
+Email: candidate.a@example.com | Phone: +91 98765 43210
+Gender: Female
+Date of Birth: 01-01-2003
+
+EDUCATION
+B.Tech in Computer Science, 2021 - 2025
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Power BI, Tableau, Matplotlib, Statistics, Data Visualization
+
+PROJECTS
+- Sales Dashboard: built an interactive Power BI dashboard and cleaned data using Pandas and SQL.
+- Exploratory data analysis on retail data using Python, Matplotlib and Seaborn.
+
+EXPERIENCE
+Data Analyst Intern: wrote SQL queries, prepared Excel reports and presented insights to managers.

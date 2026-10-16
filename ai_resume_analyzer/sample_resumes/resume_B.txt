@@ -1,0 +1,17 @@
+Sample Candidate B
+Email: candidate.b@example.com | Phone: +91 91234 56789
+Nationality: Indian
+Marital Status: Single
+
+EDUCATION
+B.Tech in Artificial Intelligence, 2021 - 2025
+
+SKILLS
+Python, Machine Learning, scikit-learn, Pandas, NumPy, XGBoost, FastAPI, Docker, Git, GitHub, Feature Engineering
+
+PROJECTS
+- Customer churn prediction: trained models with scikit-learn and XGBoost, tracked results and served the model through a FastAPI REST API.
+- Packaged the service with Docker and published the code on GitHub.
+
+EXPERIENCE
+Machine Learning Intern: built and evaluated ML models and deployed them as APIs.

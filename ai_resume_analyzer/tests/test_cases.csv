@@ -1,0 +1,4 @@
+Test Resume,Expected Top Role,Actual Top Role,Top Score %,Skills Found,Result
+Resume A,Data Analyst,Data Analyst,90.1,12,PASS
+Resume B,Machine Learning Engineer,Machine Learning Engineer,78.9,12,PASS
+Resume C,NLP Engineer,NLP Engineer,97.3,9,PASS
