@@ -10,4 +10,4 @@ pip install -r ai_resume_analyzer/requirements.txt
 streamlit run ai_resume_analyzer/app.py
 
 ## Author
-Avilala Pavan Rithwik (2600031557), Unlox AI Program, Major Project 1
+Avilala Pavan Rithwik (2600031557), Unlox AI Program, Major Project 1 
