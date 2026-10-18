@@ -23,9 +23,9 @@ Upload resume -> Extract text -> Clean text -> Extract skills -> Load role requi
 - Full-text TF-IDF similarity between the resume and the role description is also shown for reference
 
 ## Setup
-```bash
-git clone <your-repo-url>
-cd ai_resume_analyzer
+```
+git clone https://github.com/pavanrithwik12-coder/ai-resume-analyzer.git
+cd ai-resume-analyzer/ai_resume_analyzer
 pip install -r requirements.txt
 streamlit run app.py
 ```
